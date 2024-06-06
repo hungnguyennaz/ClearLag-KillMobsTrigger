@@ -1,0 +1,7 @@
+name: MobsAreNiggers
+version: '${project.version}'
+main: me.hungaz.mobsareniggers.MobsAreNiggers
+api-version: '1.20'
+depend: [ClearLag]
+authors: [hungaz]
+description: This plugin will trigger ClearLagg's 'killmobs' by executing '/lagg killmobs' when the server TPS is low, repeating at a set interval.

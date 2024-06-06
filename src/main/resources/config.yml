@@ -1,0 +1,4 @@
+trigger-if-tps-lower-than: 15.0
+check-interval: 60
+broadcast-enabled: true
+broadcast-message: "§c§lCẢNH BÁO §eTPS server đang bị giảm đáng kể, mobs sẽ bị clear để cải thiện."
